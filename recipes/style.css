@@ -1,0 +1,36 @@
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: black;
+    text-align: center;
+    font-size: 88px;
+    color: white;
+}
+
+p {
+    font-size: 25px;
+    text-align: center;
+}
+
+.food {
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+html {
+    background-color: orange;
+}
+
+h2 {
+    text-align: center;
+}
+
+ul, ol {
+    font-size: 20px;
+}
+
+.link {
+    font-size: 30px;
+}
